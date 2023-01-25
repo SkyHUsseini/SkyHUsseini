@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sama
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript
-- 👩🏻‍💻 Current skills: HTML, CSS, tailwind, bootstrap
+- 👀 I’m a frontend development
+- I'm further pushing my skills to become full stack developer
+- 🌱 I SEO and CRO optimize websites
+- 👩🏻‍💻 Current skills: HTML, CSS, and vanilla JavaScript
 
 - 📫 Reach me sama25husseini@gmail.com
 
