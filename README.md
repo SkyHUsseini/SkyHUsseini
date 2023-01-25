@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sama
-- 👀 I’m a frontend development
+- 👀 I’m a frontend developer
 - I'm further pushing my skills to become full stack developer
 - 🌱 I SEO and CRO optimize websites
 - 👩🏻‍💻 Current skills: HTML, CSS, and vanilla JavaScript
